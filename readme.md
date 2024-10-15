@@ -6,3 +6,4 @@
 - django-admin startproject setup . 
 - python manage.py runserver
 - pip install python-dotenv
+- py manage.py help
